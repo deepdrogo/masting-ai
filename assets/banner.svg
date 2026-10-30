@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="600" viewBox="0 0 1600 600" role="img" aria-labelledby="title desc">
+<title id="title">Masting — Business email your company can stand behind</title>
+<desc id="desc">Monochrome Masting product banner. Corporate email, team supervision and approved office networks. Masting.ai, part of Drogoz Network.</desc>
+<defs><pattern id="dots" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#bcbcbc"/></pattern><linearGradient id="panel" x2="1" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#ececec"/></linearGradient></defs>
+<rect width="1600" height="600" rx="28" fill="#f5f5f5"/>
+<path d="M1000 0H1600V600H1000Z" fill="url(#dots)" opacity=".4"/>
+<rect x="1040" y="112" width="438" height="376" rx="32" fill="url(#panel)" stroke="#d7d7d7"/>
+<path d="M1080 178H1440M1080 220H1440M1080 264H1250M1080 307H1400M1080 350H1340M1080 393H1390" stroke="#dedede" stroke-width="12" stroke-linecap="round"/>
+<g transform="translate(1163 186) scale(3)">
+  <rect width="64" height="64" rx="18" fill="#0a0a0a"/>
+  <rect x="1" y="1" width="62" height="62" rx="17" fill="none" stroke="#3d3d3d" stroke-width="2"/>
+  <path d="M16 46V21.5l16 13 16-13V46" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="16" cy="21.5" r="4" fill="#ffffff"/>
+  <circle cx="48" cy="21.5" r="4" fill="#ffffff"/>
+  <circle cx="32" cy="34.5" r="3.6" fill="#ffffff" fill-opacity=".85"/>
+
+</g>
+<text x="96" y="97" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" letter-spacing="3" fill="#626262">DROGOZ NETWORK · CORPORATE EMAIL</text>
+<text x="90" y="234" font-family="Arial,Helvetica,sans-serif" font-size="112" font-weight="700" letter-spacing="-6" fill="#0a0a0a">masting</text>
+<text x="96" y="311" font-family="Arial,Helvetica,sans-serif" font-size="41" font-weight="600" letter-spacing="-1" fill="#0a0a0a">Business email your company</text>
+<text x="96" y="363" font-family="Arial,Helvetica,sans-serif" font-size="41" font-weight="600" letter-spacing="-1" fill="#0a0a0a">can stand behind.</text>
+<text x="96" y="432" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#626262">Your domains. Your team. One supervised workspace.</text>
+<rect x="96" y="484" width="188" height="48" rx="24" fill="#0a0a0a"/>
+<text x="190" y="515" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#fff" letter-spacing="1">MASTING.AI</text>
+</svg>
+
