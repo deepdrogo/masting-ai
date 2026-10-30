@@ -10,10 +10,10 @@
 
 ### Business email your company can stand behind.
 
-<img src="https://img.shields.io/badge/Category-Corporate%20email-0a0a0a?style=for-the-badge&labelColor=303030" alt="Category: Corporate email"/>
-<img src="https://img.shields.io/badge/Source-Private-717171?style=for-the-badge&labelColor=303030" alt="Source: Private"/>
-<a href="https://masting.ai/"><img src="https://img.shields.io/badge/Website-masting.ai-0a0a0a?style=for-the-badge&labelColor=303030" alt="Website: masting.ai"/></a>
-<a href="https://drogoz.network/"><img src="https://img.shields.io/badge/Part%20of-Drogoz%20Network-717171?style=for-the-badge&labelColor=303030" alt="Part of Drogoz Network"/></a>
+<img src="assets/badges/category.svg" alt="Category: Corporate email"/>
+<img src="assets/badges/source.svg" alt="Source: Private"/>
+<a href="https://masting.ai/"><img src="assets/badges/website.svg" alt="Website: masting.ai"/></a>
+<a href="https://drogoz.network/"><img src="assets/badges/network.svg" alt="Part of Drogoz Network"/></a>
 
 <br/><br/>
 
@@ -33,15 +33,17 @@ The implementation remains private.</sub>
 
 ## 📋 Contents
 
-- [Overview](#-overview)
-- [Key features](#-key-features)
-- [Screenshots](#-screenshots)
-- [How it works](#-how-it-works)
-- [Pricing](#-pricing)
-- [Security and supervision](#-security-and-supervision)
-- [Who it is for](#-who-it-is-for)
-- [Product guides](#-product-guides)
-- [Links](#-links)
+- [Overview](#overview)
+- [Key features](#key-features)
+- [Screenshots](#screenshots)
+- [How it works](#how-it-works)
+- [Pricing](#pricing)
+- [Security and supervision](#security-and-supervision)
+- [Who it is for](#who-it-is-for)
+- [Product guides](#product-guides)
+- [Links](#links)
+
+<a id="overview"></a>
 
 ## 🧭 Overview
 
@@ -59,6 +61,8 @@ The everyday mailbox comes with folders, threads, search, contacts, templates, s
 | **Subscription** | $999 per company per month after a 14-day trial |
 | **Domains** | $399 per three-domain combo per month, billed separately |
 | **Source code** | Private — this is a presentation repository |
+
+<a id="key-features"></a>
 
 ## ✨ Key features
 
@@ -94,6 +98,8 @@ The everyday mailbox comes with folders, threads, search, contacts, templates, s
 - **No daily sending caps under the standard plan** — still subject to recipient controls, service policies and provider constraints.
 - **Payment pauses without deletion**: the company is paused on unpaid monthly charges and resumes when funding covers the amount due.
 
+<a id="screenshots"></a>
+
 ## 🖼️ Screenshots
 
 Current public-site captures are included below. They show the product presentation and published prices, not private customer correspondence or production administration.
@@ -108,6 +114,8 @@ Current public-site captures are included below. They show the product presentat
 
 > These are unaltered public-page captures. References to optional integrations in the interface do not establish that those integrations are enabled. Confirm current payment methods and optional capabilities with the team.
 
+<a id="how-it-works"></a>
+
 ## ⚙️ How it works
 
 ```mermaid
@@ -119,6 +127,8 @@ flowchart LR
 ```
 
 Domain charges apply during the trial. Requesting names does not itself register or reserve them; provisioning is handled by the Masting team.
+
+<a id="pricing"></a>
 
 ## 💳 Pricing
 
@@ -148,6 +158,8 @@ One company plan. No per-seat subscription fee. Domains are billed separately.
 
 See [Pricing and billing](docs/pricing.md) for the full explanation.
 
+<a id="security-and-supervision"></a>
+
 ## 🔐 Security and supervision
 
 Masting is designed for **supervised business communication**, not private end-to-end encrypted messaging.
@@ -165,6 +177,8 @@ Two-factor authentication is a configurable platform capability; **this showcase
 
 No inbox-placement guarantee, uptime promise, compliance certification or end-to-end encryption claim is made here. See the [security overview](https://masting.ai/security) and [security guide](docs/security-and-privacy.md).
 
+<a id="who-it-is-for"></a>
+
 ## 🎯 Who it is for
 
 - **Companies with shared operating standards** — professional mailboxes, signatures and templates under one subscription.
@@ -173,6 +187,8 @@ No inbox-placement guarantee, uptime promise, compliance certification or end-to
 - **Organizations that want managed domain provisioning** — domain setup and mailbox operations in one service.
 
 For bulk campaigns and email marketing, Masting is not the right product.
+
+<a id="product-guides"></a>
 
 ## 📘 Product guides
 
@@ -184,6 +200,8 @@ For bulk campaigns and email marketing, Masting is not the right product.
 | [FAQ](docs/faq.md) | Clear answers about use, access, domains, pricing and source availability |
 
 AI writing tools, AI autoreplies and automated crypto top-ups are **not represented here as currently active launch features**. Availability of optional integrations should be confirmed with Masting.
+
+<a id="links"></a>
 
 ## 🔗 Links
 
